@@ -1,0 +1,7 @@
+Django==1.11.3
+gunicorn==19.7.1
+psycopg2==2.7.3.2
+redis==2.10.6
+# social-auth-app-django==2.0.0
+django-oscar==1.5.1
+pycountry==17.9.23
